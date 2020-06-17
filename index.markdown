@@ -4,4 +4,4 @@
 
 layout: default
 ---
-[Plots](/pages/plots/)
+[Plots](pages/plots/)
