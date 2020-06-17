@@ -1,6 +1,8 @@
 # main-covid
 Code to analyze data about the COVID-19 pandemic
 
+Plots and other visualizations are uploaded to https://unstuck-pol-dev.github.io/main-covid/ .
+
 ## Getting Started
 Clone this repo:
 ```
