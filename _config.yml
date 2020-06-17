@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Plots and other visualizations base on COVID-19 code and data in related 
   repos.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://unstuck-pol-dev.github.io/main-covid" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:
 
