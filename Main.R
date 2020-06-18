@@ -115,10 +115,3 @@ autoplot(log10(zVA), facets=NULL) +
 autoplot(zVA, facets=NULL) +
   labs(x="Days since 1/20/20", y="7-day average", title="Virginia")
 
-
-# Generate trend maps for U.S.
-source(here("code/covid19/jhuanalyze/GenerateTrendMap.R"))
-
-generate_case_trend_map(z2, z22, zCumCases)
-generate_death_trend_map(z2, z22, zCumDeaths)
-
