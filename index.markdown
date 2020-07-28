@@ -5,3 +5,4 @@
 layout: default
 ---
 [Plots](pages/plots/)
+[Animations](pages/animations/)
